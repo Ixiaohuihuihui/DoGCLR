@@ -1,6 +1,6 @@
 # AimCLR
 
-This is an official PyTorch implementation of **"Contrastive Learning from Extremely Augmented Skeleton Sequences for Self-supervised Action Recognition" in AAAI2022**. 
+This is an official PyTorch implementation of **"DoGCLR: Dominance-Game Contrastive Learning Network for Skeleton-Based Action Recognition"**. 
 
 ![](./fig/pipe.png)
 
